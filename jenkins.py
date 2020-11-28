@@ -1,3 +1,4 @@
 a= 'Rupesh'
 b= 'Sonawane'
-print(f"My name is {a} and surnmae is {b}")
+c= 'birth month is august'
+print(f"My name is {a} and surnmae is {b} while your {c}")
